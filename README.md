@@ -1,6 +1,6 @@
 # Explicación del script.
-El script es un instalador básico y guiado para la instalación de servicios para la pila LAMP
-El script está dividido por servicios y funciones
+El script es un instalador básico y guiado para la instalación de servicios para la pila LAMP.
+El script está dividido por servicios y funciones.
 
 ## Variable
 ##### $blank
