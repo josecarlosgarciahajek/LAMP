@@ -20,7 +20,7 @@ El script está dividido por servicios y funciones.
 - Instalar mysql-server.
 - Crear un usuario administrador desde le propio scritp.
 - Importar una base de datos. OJO IMPORTANTE, ES NECESARIO TENER MYSQL SERVER O CLIENTE para hacer el resto de acciones. En el script lo detalla.
-- Securizar el acceso root.
+- Securizar el acceso root a la base de datos.
 
 ##### phpint
 - Instalar php.
